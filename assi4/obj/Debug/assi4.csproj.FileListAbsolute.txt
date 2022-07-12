@@ -1,0 +1,10 @@
+C:\Users\Ruth\source\repos\assi4\assi4\bin\Debug\assi4.exe.config
+C:\Users\Ruth\source\repos\assi4\assi4\bin\Debug\assi4.exe
+C:\Users\Ruth\source\repos\assi4\assi4\bin\Debug\assi4.pdb
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.csproj.AssemblyReference.cache
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.Form1.resources
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.Properties.Resources.resources
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.csproj.GenerateResource.cache
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.csproj.CoreCompileInputs.cache
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.exe
+C:\Users\Ruth\source\repos\assi4\assi4\obj\Debug\assi4.pdb
